@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Photography.
 - 🌱 I’m currently learning more about Web Designs.
 
-- 📫 How to reach me: zainab_akil@hotmail.ca
+- 📫 How to reach me: zainabfadi.akil@gmail.com
 
 <!---
 zainabakil/zainabakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
